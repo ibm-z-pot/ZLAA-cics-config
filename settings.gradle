@@ -4,3 +4,8 @@ pluginManagement {
         gradlePluginPortal()
     }
 }
+
+rootProject.name = 'cics-config'
+
+include 'cics-config-app'
+include 'cics-config-cicsbundle'

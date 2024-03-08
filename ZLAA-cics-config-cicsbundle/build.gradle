@@ -20,7 +20,7 @@ cicsBundle {
         url      = project.cmciUrl
         username = project.cicsUser
         password = project.cicsPass
-        insecure = true
+        insecure = project.insecure
     }
 }
 

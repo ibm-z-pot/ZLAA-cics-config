@@ -8,4 +8,4 @@ pluginManagement {
 rootProject.name = 'cics-config'
 
 include 'cics-config-app'
-include 'cics-config-cicsbundle'
+include 'ZLAA-cics-config-cicsbundle'
